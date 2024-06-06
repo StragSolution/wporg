@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "settings": {
+        "appearanceTools": true,
+        "color": {
+            "link": true
+        },
+        "layout": {
+            "contentSize": "650px",
+            "wideSize": "1200px"
+        }
+    }
+}

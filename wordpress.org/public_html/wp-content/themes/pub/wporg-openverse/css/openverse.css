@@ -1,0 +1,23 @@
+#openverse_embed {
+    display: block;
+
+    width: 100%;
+    height: calc(100vh - var(--wp-global-header-height) - var(--wp-admin--admin-bar--height, 0px));
+
+    border: none;
+}
+
+/*
+Remove the scrollbar for the footer which is re-implemented in Openverse itself.
+*/
+body {
+    overflow:hidden;
+}
+
+#main,
+.site,
+.site-content {
+    width: 100% !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+}
