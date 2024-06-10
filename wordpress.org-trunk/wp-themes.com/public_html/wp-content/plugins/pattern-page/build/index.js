@@ -1,0 +1,1 @@
+window.addEventListener("load",(()=>{var e=document.getElementById("wporg-pattern-preview");e&&(e=>{let t=e;for(;t.parentElement;)t.parentElement.style.display="block",t.parentElement.style.padding="0",t.parentElement.style.margin="0",t=t.parentElement})(e)}));
